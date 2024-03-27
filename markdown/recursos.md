@@ -8,7 +8,7 @@
 
 ### [Herramientas de edición](https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/edition-tools.md)
 
-## [Aprender sobre tecnologias Blockchain](https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/learn-techs/blockchain.md)
+## [Aprender sobre tecnologías Blockchain](https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/learn-techs/blockchain.md)
 
 ## Tips
 

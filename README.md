@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# Markdown-basic-template
+# Be meme
 <a href="https://github.com/SKRTEEEEEE">
 <div align="center">
   <img  src="https://github.com/SKRTEEEEEE/SKRTEEEEEE/blob/main/resources/img/grid-snake.svg"
@@ -9,7 +9,7 @@
 </div>
 </a>
 
-Template basico de markdown, especializado para proyectos individuales en desarollo, especialmente para interactuar con Blockchains.
+Proyecto de prueba para web para un meme. 🤖
 
 ## [Contratos Desplegados](markdown/contratos_desplegados.md)
 
@@ -23,7 +23,7 @@ Template basico de markdown, especializado para proyectos individuales en desaro
 
 ### Información de Contacto
 
-#### [Enviame un mensaje](mailto:adanreh.m@gmail.com)
+#### [Envíame un mensaje](mailto:adanreh.m@gmail.com)
 
 ### Contribuciones y Problemas
 
