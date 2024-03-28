@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  /* height: 100%; */
+  color: #fff;
+  background: linear-gradient(155deg,#000000,#0a0d13,#1e0d25,#221a27,#1f0823,#121b13,#050805);
+  background-size: 420% 420%;
+  animation: gradient-animation 20s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 10%;
+   
+  }
+  10%{
+    background-position: 10% 20%;
+    
+  }
+  30%{
+    background-position: 60% 30%;
+    
+  }
+  50% {
+    background-position: 100% 50%;
+    
+  }
+  100% {
+    background-position: 0% 50%;
+   
+  }
+}
+h1{
+  animation: text-color-animation 15s ease infinite;
+  font-weight: 900;
+}
+
+@keyframes text-color-animation {
+  0% {
+    color: #8a4ad2;
+    
+  }
+  25% {
+    color: l #29163f
+  }
+  50% {
+    color:  #23a6d5
+  }
+  75% {
+    color:  #23d5ab
+  }
+  100% {
+    color: #8a4ad2
+  }
+}
+
+
+
+main {
+  height: 100vh;
+  height: 100dvh;
+}
+/* 
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets
+  .swiper-pagination-bullet {
+  background-color: #f51c52a1;
+} */
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
